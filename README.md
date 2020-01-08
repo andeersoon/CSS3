@@ -30,10 +30,10 @@ De acordo com a Wikipedia :
 1. [Projeto Anna Bella](https://github.com/andeersoon/CSS3/commit/4a8f18858ebf08ce6aa91ff0d7dc063126d6ff84)
 1. [Projeto TecBlog](https://github.com/andeersoon/CSS3/commit/2f3b7a7158d50c52977084b65f9f6a623882fafe)
 
-
+___
 #### Página principal projeto Anna Bela
 ![index](https://github.com/andeersoon/CSS3/blob/master/projetosConcluidos/Anna%20Bella/index.png)
 
-
+___
 #### Página principal projeto TecBlog
 ![index](https://github.com/andeersoon/CSS3/blob/master/projetosConcluidos/TecBlog/index.png)
